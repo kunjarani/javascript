@@ -1,0 +1,118 @@
+[
+    {
+        "crop": " Cereals",
+        "value": "238.79"
+    },
+    {
+        "crop": " Rabi",
+        "value": "129.06"
+    },
+    {
+        "crop": " Kharif",
+        "value": "128.07"
+    },
+    {
+        "crop": " Cereals Kharif",
+        "value": "122.16"
+    },
+    {
+        "crop": " Cereals Rabi",
+        "value": "116.63"
+    },
+    {
+        "crop": " Rice",
+        "value": "105.24"
+    },
+    {
+        "crop": " Wheat Rabi",
+        "value": "93.51"
+    },
+    {
+        "crop": " Rice Kharif",
+        "value": "92.37"
+    },
+    {
+        "crop": " Coarse Cereals",
+        "value": "40.04"
+    },
+    {
+        "crop": " Coarse Cereals Kharif",
+        "value": "29.79"
+    },
+    {
+        "crop": " Maize",
+        "value": "22.26"
+    },
+    {
+        "crop": " Pulses",
+        "value": "18.34"
+    },
+    {
+        "crop": " Maize Kharif",
+        "value": "16.19"
+    },
+    {
+        "crop": " Rice Rabi",
+        "value": "12.87"
+    },
+    {
+        "crop": " Pulses Rabi",
+        "value": "12.43"
+    },
+    {
+        "crop": " Coarse Cereals Rabi",
+        "value": "10.25"
+    },
+    {
+        "crop": " Gram Rabi",
+        "value": "8.83"
+    },
+    {
+        "crop": " Bajra Kharif",
+        "value": "8.74"
+    },
+    {
+        "crop": " Maize Rabi",
+        "value": "6.06"
+    },
+    {
+        "crop": " Pulses Kharif",
+        "value": "5.91"
+    },
+    {
+        "crop": " Jowar",
+        "value": "5.28"
+    },
+    {
+        "crop": " Tur Kharif",
+        "value": "3.02"
+    },
+    {
+        "crop": " Jowar Kharif",
+        "value": "2.84"
+    },
+    {
+        "crop": " Other Kharif Pulses Rabi",
+        "value": "2.73"
+    },
+    {
+        "crop": " Jowar Rabi",
+        "value": "2.44"
+    },
+    {
+        "crop": " Barley Rabi",
+        "value": "1.75"
+    },
+    {
+        "crop": " Ragi Kharif",
+        "value": "1.57"
+    },
+    {
+        "crop": " Other Kharif Pulses Kharif",
+        "value": "0.62"
+    },
+    {
+        "crop": " Small Millets Kharif",
+        "value": "0.44"
+    }
+]

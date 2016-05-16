@@ -1,0 +1,62 @@
+[
+    {
+        "crop": " Kharif",
+        "value": "20.791"
+    },
+    {
+        "crop": " Soyabean Kharif",
+        "value": "14.666"
+    },
+    {
+        "crop": " Rabi",
+        "value": "10.152"
+    },
+    {
+        "crop": " Rapeseed and Mustard Rabi",
+        "value": "8.029"
+    },
+    {
+        "crop": " Groundnut",
+        "value": "4.695"
+    },
+    {
+        "crop": " Groundnut Kharif",
+        "value": "3.187"
+    },
+    {
+        "crop": " Castorseed Kharif",
+        "value": "1.964"
+    },
+    {
+        "crop": " Groundnut Rabi",
+        "value": "1.508"
+    },
+    {
+        "crop": " Sesamun Kharif",
+        "value": "0.685"
+    },
+    {
+        "crop": " Sunflower",
+        "value": "0.544"
+    },
+    {
+        "crop": " Sunflower Rabi",
+        "value": "0.357"
+    },
+    {
+        "crop": " Sunflower Kharif",
+        "value": "0.187"
+    },
+    {
+        "crop": " Linseed Rabi",
+        "value": "0.149"
+    },
+    {
+        "crop": " Safflower Rabi",
+        "value": "0.109"
+    },
+    {
+        "crop": " Nigerseed Kharif",
+        "value": "0.102"
+    }
+]
